@@ -44,6 +44,18 @@ run the program
 '''
 
 ## Output:
+![haripriya](https://github.com/HARIPRIYASIVAKUMAR/places-around-me/assets/147477684/d66e83b7-976f-4bef-ae3b-064da2c6c5cc)
+![clunyschool](https://github.com/HARIPRIYASIVAKUMAR/places-around-me/assets/147477684/f2a5773d-411d-44dc-a731-29cf3ecbd01a)
+![mainbazar](https://github.com/HARIPRIYASIVAKUMAR/places-around-me/assets/147477684/32f18c7c-ec6b-4486-98f3-9fe509014023)
+![mangayarkarasi](https://github.com/HARIPRIYASIVAKUMAR/places-around-me/assets/147477684/aaec9396-fc7f-4627-acdf-913c8dfe8862)
+![neyvelilignite](https://github.com/HARIPRIYASIVAKUMAR/places-around-me/assets/147477684/9a0355f9-7eac-41d7-914b-5db09ecb95ca)
+![sathyagnanasabhai](https://github.com/HARIPRIYASIVAKUMAR/places-around-me/assets/147477684/73667a84-743d-4331-a5d7-407995c3cf68)
+
+
+
+
+
+
 
 ## Result:
 Thus the program executed successfully
