@@ -9,7 +9,7 @@ Write the code appropriately
 ### Step 2:
 run the program
 ## Code:
-'''
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -41,7 +41,7 @@ run the program
 </map>
 
 </html>
-'''
+```
 
 ## Output:
 ![haripriya](https://github.com/HARIPRIYASIVAKUMAR/places-around-me/assets/147477684/d66e83b7-976f-4bef-ae3b-064da2c6c5cc)
